@@ -1,2 +1,2 @@
-# fronted_ui.github.io
+# https://fantabber.github.io/fronted_ui/
 fronted_ui
